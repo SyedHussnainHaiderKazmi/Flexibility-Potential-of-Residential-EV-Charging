@@ -17,7 +17,7 @@ This study focuses on evaluating how flexible electric vehicle (EV) charging can
 Here is what you’ll find in each folder:
 
 ### 1️⃣ `1_Masters_Thesis_Report`
-📄 Final thesis report in PDF format and written in LaTeX.
+📄 Final thesis report, written in LaTeX, is available in PDF format.
 
 ### 2️⃣ `2_Masters_Thesis_Presentation`
 🎤 Presentation slides for defense.
@@ -56,7 +56,7 @@ Here is what you’ll find in each folder:
 **Author**: Syed Hussnain Haider Kazmi  
 **Institution**: [Chair of Renewable and Sustainable Energy Systems, Technical University of Munich]  
 **Thesis Year**: 2025  
-**Supervisor**: [Prof. Dr. rer. nat. Thomas Hamacher & Dr.–Ing Anurag Mohapatra]
+**Supervisor**: [Prof. Dr. Thomas Hamacher & Dr.–Ing Anurag Mohapatra]
 
 ---
 
