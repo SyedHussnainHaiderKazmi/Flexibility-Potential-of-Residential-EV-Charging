@@ -56,7 +56,7 @@ Here is what you’ll find in each folder:
 **Author**: Syed Hussnain Haider Kazmi  
 **Institution**: [Chair of Renewable and Sustainable Energy Systems, Technical University of Munich]  
 **Thesis Year**: 2025  
-**Supervisor**: [Prof. Dr. Thomas Hamacher & Dr.–Ing Anurag Mohapatra]
+**Supervisors**: [Prof. Dr. Thomas Hamacher & Dr.–Ing Anurag Mohapatra]
 
 ---
 
